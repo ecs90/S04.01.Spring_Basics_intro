@@ -8,7 +8,7 @@ group = 'cat.itacademy.barcelonactiva.salas.ezequiel.s04.t01.n02'
 version = '0.0.1-SNAPSHOT'
 
 java {
-	sourceCompatibility = '21'
+	sourceCompatibility = '17'
 }
 
 repositories {
